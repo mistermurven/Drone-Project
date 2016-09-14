@@ -1,11 +1,12 @@
 <?php require_once("assets/header.php"); ?>
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<h1><i class="btl bt-flag"></i>Drone Project</h1>
-		</div>
+	<div class="jumbotron">
+		<center>
+			<h1>Hello, world!</h1>
+		<p>I welcome you to the start of a beautiful journey...</p>
+		<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+			</center>
 	</div>
-</div>
+
 
 <?php require_once("assets/footer.php"); ?>

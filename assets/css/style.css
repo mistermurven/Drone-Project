@@ -1,10 +1,19 @@
 body {
   padding: 50px 0;
-  background: #222;
+  background: #255,255,255;
   color: white;
   font-family: 'Open Sans', sans-serif; }
 
 h1, h2, h3, h4, h5 {
   font-weight: 100; }
+
+.jumbotron {
+  background-image: url(http://9p5z91rxsag1usgoc1ctvupb.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Drones_MainImage_FINAL.png);
+  height:100%;
+  width: 100%;
+  background-size: 100%;
+}
+
+
 
 /*# sourceMappingURL=style.css.map */
